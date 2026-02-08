@@ -7,26 +7,16 @@
   🚀 Em evolução constante como dev, focado em aprender e construir projetos
 </p>
 
----
-
- 🧠 Sobre mim
-
-- 🎓 Cursando **Engenharia de Software**
-- 💻 Atualmente estudando e praticando **C#**, **Python** e **Banco de Dados**
-- 🔥 Buscando crescer como desenvolvedor e criar projetos cada vez mais completos
-
----
-
- 🚀 Tecnologias & Ferramentas
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,mysql,git,github" />
 </p>
 
----
+## 🧠 Sobre mim
+- 🎓 Cursando **Engenharia de Software**
+- 💻 Atualmente estudando e praticando **C#**, **Python** e **Banco de Dados**
+- 🔥 Buscando crescer como desenvolvedor e criar projetos cada vez mais completos
 
- 🌎 Como me encontrar
-
+## 🌎 Como me encontrar
 <p align="center">
   <a href="mailto:contachatphz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -35,8 +25,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ophdevs/ophdevs/output/github-contribution-grid-snake-dark.svg">
