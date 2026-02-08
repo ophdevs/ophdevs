@@ -1,4 +1,7 @@
-<img align="center" alt="" src="./src/head-gif.gif">
+<p align="center">
+  <img src="./src/head-gif.gif" />
+</p>
+
 
 
 
