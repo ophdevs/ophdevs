@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Sobre mim
+# 🧠 Sobre mim
 
 - 🎓 Cursando **Engenharia de Software**
 - 💻 Atualmente estudando e praticando **C#**, **Python** e **Banco de Dados**
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+# 🚀 Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,mysql,git,github" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 🌎 Como me encontrar
+# 🌎 Como me encontrar
 
 <p align="center">
   <a href="mailto:contachatphz@gmail.com">
