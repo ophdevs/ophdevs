@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/15c882ed-6f9e-4ce0-a6dc-09d47ab96781)
 
-<h1 align="center">👋 Olá, eu sou o Pedro Henrique Brandão Batista</h1>
+<h1 align="center">👋 Olá, Eu sou o Pedro Henrique</h1>
 
 <p align="center">
   🎓 Estudante de Engenharia de Software • 20 anos <br>
@@ -20,7 +20,7 @@
 
 ## 🌎 Como me encontrar
 <p align="center">
-  <a href="mailto:contachatphz@gmail.com">
+  <a href="mailto:pedro2006batista@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ophdev/">
