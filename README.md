@@ -7,6 +7,8 @@
   🚀 Em evolução constante como dev, focado em aprender e construir projetos
 </p>
 
+## 🚀 Stacks
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,mysql,git,github" />
 </p>
