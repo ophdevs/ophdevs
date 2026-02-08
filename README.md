@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/bf62fe01-416e-4835-ac81-36f90a58fcb8)
+![Image](https://github.com/user-attachments/assets/be7f25dd-e18a-41ec-86a4-5bd25a3879d9)
 
 <h1 align="center">👋 Olá, Eu sou o Pedro Henrique</h1>
 
