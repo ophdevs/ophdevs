@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 Estudante de Engenharia de Software • 20 anos <br>
-  🚀 Em evolução constante como dev, focado em aprender e construir projetos
+  🚀 Em evolução constante como dev, focado em aprender e construir projetos.
 </p>
 
 ## 🚀 Stacks
