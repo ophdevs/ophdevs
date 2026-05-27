@@ -15,7 +15,7 @@
 
 ## 🧠 Sobre mim
 - 🎓 Cursando **Engenharia de Software**
-- 💻 Atualmente estudando e praticando **C#**, **Python** e **Banco de Dados**
+- 💻 Atualmente estudando e praticando **Java**, **Python** e **Banco de Dados**
 - 🔥 Buscando crescer como desenvolvedor e criar projetos cada vez mais completos.
 
 ## 🌎 Como me encontrar
