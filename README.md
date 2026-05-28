@@ -35,8 +35,12 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ophdevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ophdevs&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ophdevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ophdevs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ophdevs&theme=tokyonight&hide_border=true" height="160em"/>
 </p>
 
 ---
